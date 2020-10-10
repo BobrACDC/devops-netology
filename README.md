@@ -12,3 +12,4 @@
 - файл example_override.tf - не будет игнорироваться, будет отслеживаться
 
 - файлы с расширением .terraformrc и файлы terraform.rc
+new line for PyCharm Commit
